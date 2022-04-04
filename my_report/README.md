@@ -11,8 +11,7 @@
 
 
 # 1st Deliverable
-me phre thlefono h gerogia mou eope ela pame ston geitona ton mhtso pavlioti kai fygame 
-evala thn pantoufla kai irtha 
+Τα links για να διαμορφώσω την εργασία τα βρήκα από το github και το aframe. 
 
 
 
