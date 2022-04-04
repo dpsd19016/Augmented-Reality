@@ -1,9 +1,9 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Augmented Reality Personal Repository: xxx
+### First and Last Name: Chrysoula-Christina Galymitaki 
+### University Registration Number: dpsd19016
+### GitHub Personal Profile: https://github.com/dpsd19016
+### Augmented Reality Personal Repository: https://github.com/dpsd19016?tab=repositories
 
 # Introduction
 
@@ -11,6 +11,11 @@
 
 
 # 1st Deliverable
+me phre thlefono h gerogia mou eope ela pame ston geitona ton mhtso pavlioti kai fygame 
+evala thn pantoufla kai irtha 
+
+
+
 
 
 # 2nd Deliverable
